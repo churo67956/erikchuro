@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/churo67956/erikchuro/issues"
   },
-  "homepage": "https://github.com/churo67956/erikchuro#readme"
+  "homepage": "https://github.com/churo67956/erikchuro#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
 }
