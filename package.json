@@ -1,0 +1,22 @@
+{
+  "name": "erikchuro",
+  "version": "1.0.0",
+  "description": "un espacio personal con los conocimientos que tengo y que los voy a conectar a la red.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/churo67956/erikchuro.git"
+  },
+  "keywords": [
+    "erikchuro"
+  ],
+  "author": "erik fabricio churo churo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/churo67956/erikchuro/issues"
+  },
+  "homepage": "https://github.com/churo67956/erikchuro#readme"
+}
